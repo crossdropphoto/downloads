@@ -1,6 +1,6 @@
 # CrossDropPhoto 下载
 
-CrossDropPhoto — iOS ↔ Android 照片视频互传 App 的 **APK 分发仓库**(源码仓库为私有)。
+CrossDropPhoto — iOS ↔ Android 照片视频互传 App 的 APK 分发仓库。
 
 ## 下载最新版
 
