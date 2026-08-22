@@ -5,5 +5,6 @@
   "releasePage": "https://github.com/crossdropphoto/downloads/releases/tag/v2.0.2",
   "apkUrl": "https://github.com/crossdropphoto/downloads/releases/download/v2.0.2/CrossDrop-2.0.2.apk",
   "apkSize": 67939615,
-  "apkSha256": "06ebf52dd5e9d5a0478c1abf910b374292f86170862951b9ff7236596948ef21"
+  "apkSha256": "06ebf52dd5e9d5a0478c1abf910b374292f86170862951b9ff7236596948ef21",
+  "notes": "三星动态照片：支持识别与发送（HEIF/JPEG 两种模式），视频无损提取，发到 iPhone 后完整保留实况效果\n修复 Android 14 / iOS「部分访问」状态下的权限误报\n修复发送重试时报 PathNotFoundException 的问题\n苹果发小米：实况改用 MicroVideo 格式，小米相册可识别并播放动态效果"
 }
