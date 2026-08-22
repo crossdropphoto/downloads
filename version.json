@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "2.0.1",
+  "versionCode": 5,
+  "versionName": "2.0.2",
   "minVersionCode": 0,
-  "releasePage": "https://github.com/crossdropphoto/downloads/releases/tag/v2.0.1",
-  "apkUrl": "https://github.com/crossdropphoto/downloads/releases/download/v2.0.1/CrossDrop-2.0.1.apk",
-  "apkSize": 67923231,
-  "apkSha256": "9e4889c7d46edf0bf9dc49e19ea18548133e95b2859652139ddcae960e9241ff"
+  "releasePage": "https://github.com/crossdropphoto/downloads/releases/tag/v2.0.2",
+  "apkUrl": "https://github.com/crossdropphoto/downloads/releases/download/v2.0.2/app-release.apk",
+  "apkSize": 67939615,
+  "apkSha256": "06ebf52dd5e9d5a0478c1abf910b374292f86170862951b9ff7236596948ef21"
 }
