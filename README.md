@@ -10,6 +10,7 @@ CrossDropPhoto — iOS ↔ Android 照片视频互传 App 的 APK 分发仓库�
 
 | 版本 | 说明 |
 |------|------|
+| [v2.0.2](https://github.com/crossdropphoto/downloads/releases/tag/v2.0.2) | 三星动态照片双向支持、权限误报修复、小米实况格式适配 |
 | [v2.0.1](https://github.com/crossdropphoto/downloads/releases/tag/v2.0.1) | 修复竖拍实况发到华为播放横屏、选图按修改时间排序、内置版本更新检查 |
 | [v2.0.0](https://github.com/crossdropphoto/downloads/releases/tag/v2.0.0) | 实况照片双向互通、元数据完整保留 |
 
