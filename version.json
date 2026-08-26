@@ -1,13 +1,13 @@
 {
-  "versionCode": 5,
-  "versionName": "2.0.2",
+  "versionCode": 12,
+  "versionName": "2.0.3",
   "minVersionCode": 0,
-  "releasePage": "https://github.com/crossdropphoto/downloads/releases/tag/v2.0.2",
-  "apkUrl": "https://github.com/crossdropphoto/downloads/releases/download/v2.0.2/CrossDrop-2.0.2.apk",
-  "apkSize": 67939615,
-  "apkSha256": "06ebf52dd5e9d5a0478c1abf910b374292f86170862951b9ff7236596948ef21",
-  "notes": "三星动态照片：支持识别与发送（HEIF/JPEG 两种模式），视频无损提取，发到 iPhone 后完整保留实况效果\n修复 Android 14 / iOS「部分访问」状态下的权限误报\n修复发送重试时报 PathNotFoundException 的问题\n苹果发小米：实况改用 MicroVideo 格式，小米相册可识别并播放动态效果",
+  "releasePage": "https://github.com/crossdropphoto/downloads/releases/tag/v2.0.3",
+  "apkUrl": "https://github.com/crossdropphoto/downloads/releases/download/v2.0.3/CrossDrop-2.0.3.apk",
   "apkUrls": [
-    "https://github.com/crossdropphoto/downloads/releases/download/v2.0.2/CrossDrop-2.0.2.apk"
-  ]
+    "https://github.com/crossdropphoto/downloads/releases/download/v2.0.3/CrossDrop-2.0.3.apk"
+  ],
+  "apkSize": 68037919,
+  "apkSha256": "9ade5e01df7709093cbc2139a0a96dcb3334f8d91fbde3ca2f68d00a2b79f1ec",
+  "notes": "**修复**\n- 三星动态照片：生成标准 SEFH 尾部，苹果发三星的实况完整识别与播放（含回传场景）\n- 发热：修复接收页持续高 CPU（服务器空闲超时配置导致的零延迟定时器空转）\n- 发现稳定性：广播看门狗、连续扫描缓存规避、扫描失败保留上轮设备\n- 批量传输：接收端背压 + 流式落盘，1600+ 张照片不再断连\n- 大视频：接收页屏幕常亮，长时间传输不被打断\n- 第三方动态照片（微信/小红书保存的）提取修复，发苹果完整保留实况\n- 部分访问授权（Android 14 / iOS）不再误报需要相册权限\n- 修复图片保存 3302、配对码过期自愈、重试报错等一系列问题\n- 实况保存失败在接收页显性提示，长按可复制错误信息\n\n**新增**\n- 首页显示当前版本号"
 }
